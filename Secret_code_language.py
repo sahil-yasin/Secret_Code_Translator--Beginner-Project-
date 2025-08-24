@@ -2,7 +2,7 @@
 # I am going to create a program capable to perform converting an English word into a code word and also
 # capable to decode the coded word based on the user input
 # Rules:
-#   - If the length of the entered string is less or equal to 3 then remove the first letter and append it to
+#   - If the length of the entered string is greater or equal to 3 then remove the first letter and append it to
 #     the end 
 #   - Else print the given word in the reverse order
 # You have to ask the user to encode or decode the input
